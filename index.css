@@ -19,8 +19,8 @@ body {
 .navbar a {
     color: white;
     font-size: large;
-    text-shadow: #fa592f;
+    text-shadow: #198754;
 }
 .navbar a:hover {
-    color: #fa592f;
+    color: #198754;
 }

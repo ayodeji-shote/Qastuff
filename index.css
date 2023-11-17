@@ -1,5 +1,26 @@
 .carousel-inner img {
-    position: relative;
     margin-left: auto;
     margin-right: auto;
+}
+
+.carousel-item img{
+    width: 20%;
+    height: 20%;
+    padding-top: 5%;
+    padding-bottom: auto;
+    
+}
+
+body {
+    background-color: #f5f4f0;
+    font-family: fantasy;
+}
+
+.navbar a {
+    color: white;
+    font-size: large;
+    text-shadow: #fa592f;
+}
+.navbar a:hover {
+    color: #fa592f;
 }
